@@ -1,4 +1,4 @@
-# TEXT/INTENT CLASSIFICATION
+## TEXT/INTENT CLASSIFICATION
     This model is built to classify the text posted by the user. The model is trained on a small dataset containing about 1000 rows of data.
 
 Prerequisites:
