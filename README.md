@@ -1,5 +1,5 @@
 ## TEXT/INTENT CLASSIFICATION
-    Build a multi-class text classification machine learning model using NLTK/Spacy in python     that automatically categorizes given text. Build and deployed a web service using Flask/     HTML and CSS that can used to make predictions.
+    Built a multi-class text classification machine learning model using NLTK/Spacy in python that automatically categorizes given text.       Built and deployed a web service using Flask, HTML and CSS that can used to make predictions.
     
 ## Dataset
     The train data is available in the name 
